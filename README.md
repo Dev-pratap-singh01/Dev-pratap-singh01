@@ -1,76 +1,90 @@
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Hi+There!+I'm+Dev+Pratap+Singh+%F0%9F%91%8B;B.Tech+%7C+AI+%7C+DSA+%7C+Web+Developer;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Dev+Pratap+Singh;AI+%7C+ML+%7C+DL+%7C+DSA+%7C+Full+Stack+Dev;Welcome+to+My+World+of+Code!+%F0%9F%92%BB" alt="Typing SVG" />
 </p>
 
-<h1 align="center">✨ Dev Pratap Singh ✨</h1>
+<h1 align="center">💡 Dev Pratap Singh</h1>
 
 <p align="center">
-  👨‍🎓 B.Tech @ PSIT | 💻 Passionate Coder | 🚀 AI & Full Stack Dev Enthusiast
+  <img src="https://img.shields.io/badge/B.Tech-PSIT-red?style=for-the-badge">
+  <img src="https://img.shields.io/badge/AI%20%7C%20ML%20%7C%20DL%20%7C%20Web-Full%20Stack-blueviolet?style=for-the-badge">
+  <img src="https://img.shields.io/badge/DSA-C++-informational?style=for-the-badge">
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" />
 </p>
 
 ---
 
-<img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
-
 ## 🚀 About Me
-- 🌱 Currently diving deep into **MERN stack** and **Machine Learning**
-- 🧠 Daily practice of **DSA in C++** (LeetCode, HackerRank)
-- 🛠️ Building projects that combine **AI + Real-World Impact**
-- 🗺️ Exploring ways to enhance **UI/UX** with practical frontend skills
-- 📫 Email: [devsingh.11.2003@gmail.com](mailto:devsingh.11.2003@gmail.com)
+- 🎓 B.Tech CSE @ PSIT Kanpur (2022–2026)
+- 💡 Passionate about Artificial Intelligence, Machine Learning & Deep Learning
+- 🛠️ Experience building full-stack apps using React, Node.js, MongoDB
+- 🧠 Solved 500+ DSA problems across LeetCode, HackerRank
+- 🔬 Exploring NLP, CNNs, and generative AI for real-world use-cases
+- 📫 Reach me at: [devsingh.11.2003@gmail.com](mailto:devsingh.11.2003@gmail.com)
 
 ---
 
-## 🔧 Tech Stack & Tools
+## 🧠 Domains & Tech Stack
 
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-4DB33D?style=flat-square&logo=mongodb&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+- **Languages:** C++, Python, JavaScript, HTML5, CSS3, SQL
+- **Frontend:** React.js, Bootstrap, Tailwind CSS
+- **Backend:** Node.js, Express.js
+- **Databases:** MongoDB, Firebase, MySQL
+- **AI/ML Tools:** TensorFlow, OpenCV, Scikit-learn, Numpy, Pandas, Jupyter, Matplotlib
+- **Deep Learning:** CNN, RNN, NLP, ANN, Transfer Learning
+- **Other Tools:** Git, GitHub, Postman, VS Code, Docker
 
 ---
 
-## 🌟 Featured Projects
+## 📌 Featured Projects
 
-### 🩻 [MedScanAI](https://github.com/Dev-pratap-singh01/MedScanAI)
-> 🧠 An AI-powered system that analyzes X-ray images to detect fractures using CNN.  
-> 📍 Includes real-time mental health analysis, image processing, and doctor locator using Google Maps API.
+### 🧠 [MedScanAI](https://github.com/Dev-pratap-singh01/MedScanAI)
+> AI-driven X-ray analysis tool with CNN, OpenCV & NLP.  
+> Real-time fracture detection, mental health check, and smart doctor locator.
 
-### ✈️ [Discover Beyond](https://github.com/Dev-pratap-singh01/Tools_and_Travels)
-> 🧭 A personalized AI-based travel recommender using ML + MongoDB  
-> 💡 Delivered 95% recommendation accuracy & interactive destination visuals
+### 🌍 [Discover Beyond](https://github.com/Dev-pratap-singh01/Tools_and_Travels)
+> ML-powered travel recommender system with smart UI & 95% match accuracy.  
+> MongoDB-based destination DB + behavior-based ML predictions.
+
+### 🤖 [AI Voice Assistant](#)
+> Python-based virtual assistant that listens, replies, opens apps & searches web using NLP.
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 GitHub Achievements
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Dev-pratap-singh01&theme=tokyonight&no-frame=true&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![Trophies](https://github-profile-trophy.vercel.app/?username=Dev-pratap-singh01&row=2&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dev-pratap-singh01&show_icons=true&theme=tokyonight" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-pratap-singh01&layout=compact&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Dev-pratap-singh01&show_icons=true&theme=radical" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-pratap-singh01&layout=compact&theme=radical" height="180"/>
 </p>
 
 ---
 
 ## 📫 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dev-pratap-singh-393951298/)
-[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)](https://github.com/Dev-pratap-singh01)
-[![Email](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=gmail&logoColor=white)](mailto:devsingh.11.2003@gmail.com)
+<p align="center">
+  <a href="https://www.linkedin.com/in/dev-pratap-singh-393951298/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/Dev-pratap-singh01">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="mailto:devsingh.11.2003@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Dev-pratap-singh01.Dev-pratap-singh01)
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Dev-pratap-singh01&label=Profile%20Views&color=0e75b6&style=flat" alt="dev-pratap-singh01" />
+</p>
