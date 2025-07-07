@@ -34,9 +34,9 @@
 ## 🌐 Connect With Me:
 
 <p>
-  <a href="mailto:devpratapofficial@gmail.com"><img src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/112-gmail_email_mail-64.png" width="50" /></a>
-  <a href="https://www.linkedin.com/in/dev-pratap-singh01"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_14-linkedin-512.png" width="50" /></a>
-  <a href="https://twitter.com/devpratap_singh"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_6-twitter-512.png" width="50" /></a>
+  <a href="mailto:devsingh.11.2003@gmail.com"><img src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/112-gmail_email_mail-64.png" width="50" /></a>
+  <a href="https://www.linkedin.com/in/dev-pratap-singh-393951298/"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_14-linkedin-512.png" width="50" /></a>
+  <a href="https://x.com/11Devsingh"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_6-twitter-512.png" width="50" /></a>
   <a href="https://www.instagram.com/devpratap_singh"><img src="https://cdn0.iconfinder.com/data/icons/sociale-media/128/Instagram.png" width="50" /></a>
 </p>
 
@@ -60,12 +60,6 @@
 
 ---
 
-## 🏆 GitHub Trophies
-
-[![Trophies](https://github-profile-trophy.vercel.app/?username=Dev-pratap-singh01&theme=onedark&column=7&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -77,5 +71,5 @@
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Dancing+Script&height=70&weight=500&size=30&duration=5000&pause=1000&color=FFD700&width=700&lines=Design+❤️+By+Dev+Pratap+Singh..+🙏✌;Follow+for+More+Projects...+🚀🔥" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Dancing+Script&height=70&weight=500&size=30&duration=5000&pause=1000&color=FFD700&width=700&lines=Design+%E2%9D%A4%EF%B8%8F+By+Dev+Pratap+Singh..+%F0%9F%99%8F%E2%9C%8C;Follow+for+More+Projects...+%F0%9F%9A%80%F0%9F%94%A5" />
 </div>
