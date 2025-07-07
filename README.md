@@ -1,3 +1,4 @@
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Hi,+I'm+Dev+Pratap+Singh;AI+%7C+ML+%7C+MERN+Dev+%7C+Student+@+PSIT;Welcome+to+my+GitHub+Universe!" alt="Typing SVG" />
 </p>
@@ -19,11 +20,21 @@ I'm **Dev Pratap Singh** from India 🇮🇳
 
 ---
 
-## 😂 Enjoy jokes :)
+## 😂 Enjoy Jokes :)
 
-<div align="center">
-  <img src="https://readme-jokes.vercel.app/api?hideBorder" alt="Jokes Card" />
-</div>
+<table>
+  <tr>
+    <td>
+      <div style="border: 2px solid #8BC34A; border-radius: 10px; padding: 10px; background-color: #2a2a2a; color: #fff; font-family: 'Courier New', Courier, monospace;">
+        <b style="color: orange;">Q.</b> Why was the function sad after a successful first call?<br>
+        <b style="color: #8BC34A;">A.</b> It didn’t get a callback.
+      </div>
+    </td>
+    <td>
+      <img src="https://readme-typing-svg.herokuapp.com?font=Dancing+Script&weight=700&size=30&duration=5000&pause=1000&color=00CFFF&width=700&lines=Coding+is+Fun!" alt="Coding is Fun!" />
+    </td>
+  </tr>
+</table>
 
 ---
 
