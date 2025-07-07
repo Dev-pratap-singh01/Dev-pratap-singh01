@@ -1,75 +1,81 @@
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Hi,+I'm+Dev+Pratap+Singh;AI+%7C+ML+%7C+MERN+Dev+%7C+Student+@+PSIT;Welcome+to+my+GitHub+Universe!" alt="Typing SVG" />
-</p>
-
----
-
-## 👋 About Me :)
-
-I'm **Dev Pratap Singh** from India 🇮🇳  
-🌱 I'm currently learning DSA and MERN stack.  
-🚀 I'm working on Fullstack MERN + AI/ML projects.  
-🔗 [Connect with me on LinkedIn](https://www.linkedin.com/in/dev-pratap-singh-393951298/)  
-💬 Ask me about Node.js, MongoDB, TensorFlow, C++.  
-🤝 I'm looking to collaborate on AI + Web Dev Projects.
-
-<p align="right">
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" height="180"/>
-</p>
-
----
-
-## 😂 Enjoy Jokes :)
-
-<table>
-  <tr>
-    <td>
-      <div style="border: 2px solid #8BC34A; border-radius: 10px; padding: 10px; background-color: #2a2a2a; color: #fff; font-family: 'Courier New', Courier, monospace;">
-        <b style="color: orange;">Q.</b> Why was the function sad after a successful first call?<br>
-        <b style="color: #8BC34A;">A.</b> It didn’t get a callback.
-      </div>
-    </td>
-    <td>
-      <img src="https://readme-typing-svg.herokuapp.com?font=Dancing+Script&weight=700&size=30&duration=5000&pause=1000&color=00CFFF&width=700&lines=Coding+is+Fun!" alt="Coding is Fun!" />
-    </td>
-  </tr>
-</table>
-
----
-
-## 🌐 Connect with me:
-
-<p align="center">
-  <a href="mailto:devsingh.11.2003@gmail.com"><img src="https://img.icons8.com/fluency/48/gmail.png"/></a>
-  <a href="https://www.linkedin.com/in/dev-pratap-singh-393951298/"><img src="https://img.icons8.com/fluency/48/linkedin.png"/></a>
-  <a href="https://github.com/Dev-pratap-singh01"><img src="https://img.icons8.com/fluency/48/github.png"/></a>
-  <a href="#"><img src="https://img.icons8.com/fluency/48/twitter.png"/></a>
-</p>
-
----
-
-## 🛠️ Languages and Tools:
+[![Profile Views](https://komarev.com/ghpvc/?username=Dev-pratap-singh01&color=brightgreen&style=flat-square)](https://github.com/Dev-pratap-singh01)
+![Followers](https://img.shields.io/github/followers/Dev-pratap-singh01?label=Followers&style=social)
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,git,nodejs,cpp,html,js,css,github,bootstrap,tailwind,mongodb" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Dancing+Script&size=38&duration=6000&pause=1000&color=00BFFF&center=true&vCenter=true&width=1100&height=100&lines=Hey,+I'm+Dev+Pratap+Singh!;Welcome+to+my+GitHub+Profile..+%F0%9F%99%8F%F0%9F%92%96;Nice+to+meet+you+here+%F0%9F%98%8A" alt="Typing SVG" />
 </div>
 
 ---
 
-## 📈 GitHub Stats
+## 👨‍💻 About Me :)
+
+<a href="https://github.com/Dev-pratap-singh01">
+  <img align="right" width="26%" src="https://user-images.githubusercontent.com/76244600/130684066-fb0b5e47-6c93-469e-ba45-7cb62833b965.png" />
+</a>
+
+- 🎓 Final-year B.Tech Student @ PSIT, Kanpur (AKTU)  
+- 💻 Learning DSA (C++) and Web Development  
+- 🧠 Exploring Machine Learning & AI tools  
+- 🌐 Actively building projects like `MedScan AI` & `Discover Beyond`  
+- 💬 Ask me about anything tech-related  
+- 🤝 Open to collaborate on meaningful tech projects
+
+---
+
+## 😂 Enjoy a Tech Joke:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dev-pratap-singh01&show_icons=true&theme=tokyonight" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-pratap-singh01&layout=compact&theme=tokyonight" height="180"/>
+  <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
+  <img width="35%" src="https://media.giphy.com/media/IPhL5ZvzvcGVWml71R/giphy.gif" />
 </p>
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Dev-pratap-singh01&label=Profile%20views&color=brightgreen&style=flat" alt="dev-pratap-singh01" />
+## 🌐 Connect With Me:
+
+<p>
+  <a href="mailto:devpratapofficial@gmail.com"><img src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/112-gmail_email_mail-64.png" width="50" /></a>
+  <a href="https://www.linkedin.com/in/dev-pratap-singh01"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_14-linkedin-512.png" width="50" /></a>
+  <a href="https://twitter.com/devpratap_singh"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_6-twitter-512.png" width="50" /></a>
+  <a href="https://www.instagram.com/devpratap_singh"><img src="https://cdn0.iconfinder.com/data/icons/sociale-media/128/Instagram.png" width="50" /></a>
 </p>
 
-<p align="center">
-  💖 Designed with care by <strong>Dev Pratap Singh</strong> 🙏
+---
+
+## 🧰 Languages & Tools (Animated)
+
+<p>
+  <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=react&animation=spin&svgfill=15d8fe" />
+  <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=node.js&animation=spin&svgfill=659b60" />
+  <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=mongodb&animation=spin&svgfill=4DB33D" />
+  <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=html5&animation=spin&svgfill=E34F26" />
+  <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=css3&animation=spin&svgfill=1572B6" />
+  <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=tailwindcss&animation=spin&svgfill=06B6D4" />
+  <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=bootstrap&animation=spin&svgfill=7952B3" />
+  <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=javascript&animation=spin&svgfill=f7df1e" />
+  <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=cplusplus&animation=spin&svgfill=00599C" />
+  <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=git&animation=spin&svgfill=F05032" />
+  <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=github&animation=spin&svgfill=ffffff" />
 </p>
+
+---
+
+## 🏆 GitHub Trophies
+
+[![Trophies](https://github-profile-trophy.vercel.app/?username=Dev-pratap-singh01&theme=onedark&column=7&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="auto" width="48%" src="https://github-readme-stats.vercel.app/api?username=Dev-pratap-singh01&show_icons=true&hide_border=true&theme=radical" />
+  <img height="auto" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-pratap-singh01&hide_border=true&layout=compact&theme=radical" />
+  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=Dev-pratap-singh01&theme=radical&hide_border=true" />
+</div>
+
+---
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Dancing+Script&height=70&weight=500&size=30&duration=5000&pause=1000&color=FFD700&width=700&lines=Design+❤️+By+Dev+Pratap+Singh..+🙏✌;Follow+for+More+Projects...+🚀🔥" />
+</div>
