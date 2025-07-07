@@ -59,14 +59,6 @@ I'm **Dev Pratap Singh** from India 🇮🇳
 
 ---
 
-## 🏆 GitHub Trophy
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Dev-pratap-singh01&theme=radical&no-frame=true&no-bg=true&margin-w=4" />
-</p>
-
----
-
 ## 📈 GitHub Stats
 
 <p align="center">
@@ -76,18 +68,10 @@ I'm **Dev Pratap Singh** from India 🇮🇳
 
 ---
 
-## 📊 GitHub Activity Summary
-
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Dev-pratap-singh01&theme=react-dark)
-
----
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Dev-pratap-singh01&label=Profile%20views&color=brightgreen&style=flat" alt="dev-pratap-singh01" />
 </p>
 
----
-
 <p align="center">
-  ✨ Design by **Dev Pratap Singh** 🙏  
+  💖 Designed with care by <strong>Dev Pratap Singh</strong> 🙏
 </p>
