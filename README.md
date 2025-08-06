@@ -1,6 +1,9 @@
 [![Profile Views](https://komarev.com/ghpvc/?username=Dev-pratap-singh01&color=brightgreen&style=flat-square)](https://github.com/Dev-pratap-singh01)
 ![Followers](https://img.shields.io/github/followers/Dev-pratap-singh01?label=Followers&style=social)
 
+<!-- 🔥 SECRET TRACKING PIXEL (1x1) -->
+<img src="https://your-tracker-url.com/track.png" width="1" height="1" />
+
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Dancing+Script&size=38&duration=6000&pause=1000&color=00BFFF&center=true&vCenter=true&width=1100&height=100&lines=Hey,+I'm+Dev+Pratap+Singh!;Welcome+to+my+GitHub+Profile..+%F0%9F%99%8F%F0%9F%92%96;Nice+to+meet+you+here+%F0%9F%98%8A" alt="Typing SVG" />
 </div>
